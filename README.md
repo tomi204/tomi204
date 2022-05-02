@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **tomi204/tomi204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning JavaScript.
+- 🤔 I’m looking for help with Solidity.
+- 💬 Ask me about Blockchain World.
+- ⚡ Fun fact: learn.
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomi204&show_icons=true&theme=dark&hide_border=false)
