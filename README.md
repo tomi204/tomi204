@@ -11,7 +11,7 @@
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
-                 -ES- 
+                -ES- 
    
 - 🔭 Actualmente trabajando en JavaScript.
 - 🌱 Actualemente aprendiendo JavaScript.
