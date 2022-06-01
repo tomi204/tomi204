@@ -3,20 +3,21 @@
 
 **tomi204/tomi204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+                  -EN-     
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
-  🇦🇷
+                 -ES- 
+   
 - 🔭 Actualmente trabajando en JavaScript.
-- 🌱 I’m currently learning JavaScript.
-- 🤔 I’m looking for help with Solidity.
-- 💬 Ask me about Blockchain.
-- ⚡ Fun fact: learn.
+- 🌱 Actualemente aprendiendo JavaScript.
+- 🤔 Buscando ayuda con Solidity.
+- 💬 Prenguntame sobre Blockchain.
+- ⚡ Me divierte: aprendier.
 
 
 
