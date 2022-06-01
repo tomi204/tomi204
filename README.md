@@ -4,7 +4,7 @@
 **tomi204/tomi204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-                  -EN-     
+                -EN-     
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with Solidity.
