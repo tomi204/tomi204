@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with Solidity.
-- 💬 Ask me about Blockchain World.
+- 💬 Ask me about Blockchain .
 - ⚡ Fun fact: learn.
 
 
