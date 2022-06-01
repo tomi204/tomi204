@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
+  🇦🇷
+- 🔭 Actualmente trabajando en JavaScript.
+- 🌱 I’m currently learning JavaScript.
+- 🤔 I’m looking for help with Solidity.
+- 💬 Ask me about Blockchain.
+- ⚡ Fun fact: learn.
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomi204&show_icons=true&theme=dark&hide_border=false)
