@@ -17,7 +17,7 @@
 - 🌱 Actualemente aprendiendo JavaScript.
 - 🤔 Buscando ayuda con Solidity.
 - 💬 Prenguntame sobre Blockchain.
-- ⚡ Me divierte: aprendier.
+- ⚡ Me divierte: aprender.
 
 
 
