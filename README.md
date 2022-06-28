@@ -6,7 +6,7 @@
  -EN-   
  
 - 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.js.
 - 🤔 I’m looking for help with Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
