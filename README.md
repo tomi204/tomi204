@@ -5,16 +5,16 @@
 
  -EN-   
  
-- 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning React.js.
+- 🔭 I’m currently working on React Js.
+- 🌱 I’m currently learning Solidity.
 - 🤔 I’m looking for help with Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
 -ES- 
    
-- 🔭 Actualmente trabajando en JavaScript.
-- 🌱 Actualemente aprendiendo JavaScript.
+- 🔭 Actualmente trabajando en React.
+- 🌱 Actualemente aprendiendo Solidity.
 - 🤔 Buscando ayuda con Solidity.
 - 💬 Prenguntame sobre Blockchain.
 - ⚡ Me divierte: aprender.
