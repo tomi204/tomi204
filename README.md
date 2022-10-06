@@ -5,7 +5,7 @@
 
  -EN-   
  
-- 🔭 I’m currently working on React Js.
+- 🔭 I’m currently working on React Js, Web3 js & Solidity.
 - 🌱 I’m currently learning Solidity.
 - 🤔 I’m looking for help with Solidity.
 - 💬 Ask me about Blockchain.
