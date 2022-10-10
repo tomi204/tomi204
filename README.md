@@ -5,24 +5,21 @@
 
  -EN-   
  
-- 🔭 I’m currently working on React Js, Web3 js & Solidity.
+- 🔭 I’m currently working on React Js, Ethers js & Solidity.
 - 🌱 I’m currently learning Solidity.
-- 🤔 I’m looking for help with Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
 -ES- 
    
-- 🔭 Actualmente trabajando en React.
+- 🔭 Actualmente trabajando en React Js, Ethers js & Solidity.
 - 🌱 Actualemente aprendiendo Solidity.
-- 🤔 Buscando ayuda con Solidity.
 - 💬 Prenguntame sobre Blockchain.
 - ⚡ Me divierte aprender.
 
 -PT-
-- 🔭 Atualmente eu to trabalhando com React.
+- 🔭 Atualmente eu to trabalhando com React Js, Ethers js & Solidity.
 - 🌱 Atualmente eu to estudo Solidity.
-- 🤔 To procurando ajuda com Solidity.
 - 💬 Pergunte-me sobre Blockchain.
 - ⚡ Me divirto Aprendendo.
 - 
