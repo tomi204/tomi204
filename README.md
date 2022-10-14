@@ -5,21 +5,21 @@
 
  -EN-   
  
-- 🔭 I’m currently working on Thernloven with React Js, Ethers js & Solidity.
+- 🔭 I’m currently working on Thernloven with Next Js, Ethers js & Solidity.
 - 🌱 I’m currently learning Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
 -ES- 
    
-- 🔭 Actualmente trabajando en Thernloven con React Js, Ethers js & Solidity.
+- 🔭 Actualmente trabajando en Thernloven con Next Js, Ethers js & Solidity.
 - 🌱 Actualemente aprendiendo Solidity.
 - 💬 Prenguntame sobre Blockchain.
 - ⚡ Me divierte aprender.
 
 -PT-
-- 🔭 Atualmente eu to trabalhando em Thernloven com React Js, Ethers js & Solidity.
-- 🌱 Atualmente eu to estudo Solidity.
+- 🔭 Atualmente eu to trabalhando em Thernloven com Next Js, Ethers js & Solidity.
+- 🌱 Atualmente eu to estudando Solidity.
 - 💬 Pergunte-me sobre Blockchain.
 - ⚡ Me divirto Aprendendo.
 - 
