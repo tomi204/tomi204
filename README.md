@@ -22,7 +22,6 @@
 - 🌱 Atualmente eu to estudando Solidity.
 - 💬 Pergunte-me sobre Blockchain.
 - ⚡ Me divirto Aprendendo.
-- 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomi204&show_icons=true&theme=dark&hide_border=false)
