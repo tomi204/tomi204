@@ -1,25 +1,22 @@
 ### Hi there 👋
 
-
-**tomi204/tomi204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  -EN-   
  
-- 🔭 I’m currently working on Thernloven with Next Js, Ethers js & Solidity.
-- 🌱 I’m currently learning Solidity.
+- 🔭 I’m currently working with Next Js, Ethers js, Wagmi & Solidity.
+- 🌱 I’m currently learning Rust & Solidity.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
 -ES- 
    
-- 🔭 Actualmente trabajando en Thernloven con Next Js, Ethers js & Solidity.
-- 🌱 Actualemente aprendiendo Solidity.
+- 🔭 Actualmente trabajando con Next Js, Ethers js, Wagmi & Solidity.
+- 🌱 Actualemente aprendiendo Rust & Solidity.
 - 💬 Prenguntame sobre Blockchain.
 - ⚡ Me divierte aprender.
 
 -PT-
-- 🔭 Atualmente eu to trabalhando em Thernloven com Next Js, Ethers js & Solidity.
-- 🌱 Atualmente eu to estudando Solidity.
+- 🔭 Atualmente eu to trabalhando com Next Js, Ethers js, Wagmi & Solidity.
+- 🌱 Atualmente eu to estudando Rust & Solidity.
 - 💬 Pergunte-me sobre Blockchain.
 - ⚡ Me divirto Aprendendo.
 
