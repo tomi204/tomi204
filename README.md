@@ -3,20 +3,20 @@
  -EN-   
  
 - 🔭 I’m currently working with Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 I’m currently learning Rust & Solidity.
+- 🌱 I’m currently learning Rust.
 - 💬 Ask me about Blockchain.
 - ⚡ Fun fact: learn.
 
 -ES- 
    
 - 🔭 Actualmente trabajando con Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 Actualemente aprendiendo Rust & Solidity.
+- 🌱 Actualemente aprendiendo Rust.
 - 💬 Prenguntame sobre Blockchain.
 - ⚡ Me divierte aprender.
 
 -PT-
 - 🔭 Atualmente eu to trabalhando com Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 Atualmente eu to estudando Rust & Solidity.
+- 🌱 Atualmente eu to estudando Rust.
 - 💬 Pergunte-me sobre Blockchain.
 - ⚡ Me divirto Aprendendo.
 
