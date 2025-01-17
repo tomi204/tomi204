@@ -1,24 +1,4 @@
-### Hi there 👋
-
- -EN-   
- 
-- 🔭 I’m currently working with Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 I’m currently learning Rust.
-- 💬 Ask me about Blockchain.
-- ⚡ Fun fact: learn.
-
--ES- 
-   
-- 🔭 Actualmente trabajando con Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 Actualemente aprendiendo Rust.
-- 💬 Prenguntame sobre Blockchain.
-- ⚡ Me divierte aprender.
-
--PT-
-- 🔭 Atualmente eu to trabalhando com Next Js, Ethers js, Wagmi & Solidity.
-- 🌱 Atualmente eu to estudando Rust.
-- 💬 Pergunte-me sobre Blockchain.
-- ⚡ Me divirto Aprendendo.
+### I do thins on the blockchain
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomi204&theme=dark&hide_border=true)](https://git.io/streak-stats)
