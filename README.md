@@ -1,4 +1,4 @@
-### I do thins on the blockchain
+### I do things on the blockchain
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomi204&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
